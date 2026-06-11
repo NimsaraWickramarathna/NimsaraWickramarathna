@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wenura+Nimsara!;" />
 
 <!-- Profile Tagline -->
-<h3 align="center">A passionate IT Undergraduate building digital solutions</h3>
+<h3 align="center">A passionate DS Undergraduate building digital solutions</h3>
 
 <br />
 
